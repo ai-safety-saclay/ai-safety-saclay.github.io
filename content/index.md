@@ -1,6 +1,26 @@
 ---
-title: Welcome to Quartz
+title: Le blog du P.I.A.F
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Ceci est le blog de P.I.A.F-Saclay.
+
+Pour en savoir plus sur nous, c'est [ici](https://github.com/ai-safety-saclay)
+
+
+# Nos projets
+
+[[bilan-sondage-1|Un sondage sur la sûreté de l'IA à Télécom Paris]]
+
+
+# Nos exposés
+
+
+[[Voyager|comment GPT4 joue à Minecraft]]
+
+[[danger-optimisation-renforcement|Pourquoi l'apprentissage par renforcement est difficile à contrôler]]
+
+# Autres contenus
+
+[[intro-sûreté-ia|Une introduction à pourquoi la sûreté de l'IA c'est important]]
+
+[[discours-pause-ia|Il faut faire une pause dans la recherche en IA]]
