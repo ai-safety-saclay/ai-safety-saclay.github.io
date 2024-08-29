@@ -11,9 +11,9 @@ Je suis étudiant à Télécom Paris.
 
 Télécom Paris, la "première école du numérique". Télécom Paris, qui "[innove de manière responsable](https://www.telecom-paris.fr/fr/ecole/bref/raison-etre)"
 
-Et en effet, on y parle régulièrement d'impact environnemental, de protection des données, de legislation et d'open-source. Mais je n'ai jamais entendu parler d'[[ai-safety]] dans le cadre de l'école. Et d'après moi, c'est un sujet absolument fondamental pour comprendre l'impact futur de l'IA sur le monde. Et j'ai l'impression que les étudiants ne sont pas du tout confrontés à ce sujet, et qu'ils sont globalement techno-optimistes.
+Et en effet, on y parle régulièrement d'impact environnemental, de protection des données, de legislation et d'open-source. Mais je n'ai jamais entendu parler d'[[intro-sûreté-ia|AI Safety]] dans le cadre de l'école. Et d'après moi, c'est un sujet absolument fondamental pour comprendre l'impact futur de l'IA sur le monde. Et j'ai l'impression que les étudiants ne sont pas du tout confrontés à ce sujet, et qu'ils sont globalement techno-optimistes.
 
-Avec [[pause-ia]], j'ai eu l'occasion de discuter des risques des IA avec des gens dans la rue. Cette fois, j'ai fait le constat inverse: les gens sont beaucoup plus inquiets que ce que je pensais.
+Avec [pause-ia](https://pauseia.fr/), j'ai eu l'occasion de discuter des risques des IA avec des gens dans la rue. Cette fois, j'ai fait le constat inverse: les gens sont beaucoup plus inquiets que ce que je pensais.
 
 Les étudiants sont-ils optimistes ou pessimistes à propos de l'IA ? Dans quelle mesure les étudiants maîtrisent-ils ce sujet ? Ont-ils une bonne compréhension de l'état de la recherche sur les modèles de langage ?
 
