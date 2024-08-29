@@ -1,6 +1,7 @@
 ---
 title: Le blog du P.I.A.F
 ---
+![](https://raw.githubusercontent.com/ai-safety-saclay/logo/main/piaf_gray_with_text.svg)
 
 Ceci est le blog de P.I.A.F-Saclay.
 
