@@ -20,6 +20,8 @@ Pour en savoir plus sur nous, c'est [ici](https://github.com/ai-safety-saclay)
 
 [[danger-optimisation-renforcement|Pourquoi l'apprentissage par renforcement est difficile à contrôler]]
 
+[[gpt-explained|Le fonctionnement d'un GPT]]
+
 # Autres contenus
 
 [[intro-sûreté-ia|Une introduction à pourquoi la sûreté de l'IA c'est important]]
