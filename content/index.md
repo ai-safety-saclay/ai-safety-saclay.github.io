@@ -22,6 +22,8 @@ Pour en savoir plus sur nous, c'est [ici](https://github.com/ai-safety-saclay)
 
 [[gpt-explained|Le fonctionnement d'un GPT]]
 
+[[inference-time-intervention|L'inference-time intervention]]
+
 # Autres contenus
 
 [[intro-sûreté-ia|Une introduction à pourquoi la sûreté de l'IA c'est important]]
