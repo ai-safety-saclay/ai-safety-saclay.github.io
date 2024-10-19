@@ -5,7 +5,7 @@ title: Le blog du P.I.A.F
 
 Ceci est le blog de P.I.A.F-Saclay.
 
-Pour en savoir plus sur nous, c'est [ici](https://github.com/ai-safety-saclay)
+Pour en savoir plus sur nous, rendez vous sur [notre site web](https://piaf-saclay.org)
 
 
 # Nos projets
