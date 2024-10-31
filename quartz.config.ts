@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "ai-safety-sacaly.github.io",
+    locale: "fr-FR",
+    baseUrl: "blog.piaf-saclay.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
