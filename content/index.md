@@ -27,5 +27,3 @@ Pour en savoir plus sur nous, rendez vous sur [notre site web](https://piaf-sacl
 # Autres contenus
 
 [[intro-sûreté-ia|Une introduction à pourquoi la sûreté de l'IA c'est important]]
-
-[[discours-pause-ia|Il faut faire une pause dans la recherche en IA]]
